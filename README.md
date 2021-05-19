@@ -1,9 +1,13 @@
-# Season App created with React and using window.navigator.geolocation.getCurrentPosition
+# Simple Season App created with React 
 
-Idea is to show an appropriate screen and an appropriate message based on lat/long and the month based on the location.
+Idea is to show an appropriate screen and an appropriate message based on lat/long and the month (got using window.navigator.geolocation.getCurrentPosition and date library).
 
 Northern Hemisphere - Summer, Southern Hemisphere - Summer months - It shows Orange screen with Sun symbols and message "Lets hit the beach"
 Northern Hemisphere - Winter, Southern Hemisphere - Winter months - It shows blule screen with snowflake symbols and message "Burr Its Chill"
+
+
+
+![alt text](https://github.com/indgoddess/season-app-react/blob/master/seasons.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
