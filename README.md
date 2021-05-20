@@ -6,8 +6,11 @@ Northern Hemisphere - Summer, Southern Hemisphere - Summer months - It shows Ora
 Northern Hemisphere - Winter, Southern Hemisphere - Winter months - It shows blule screen with snowflake symbols and message "Burr Its Chill"
 
 
-
+## Summer Greeting 
 ![alt text](https://github.com/indgoddess/season-app-react/blob/master/seasons.png?raw=true)
+
+## Winter Greeting
+![alt text](https://github.com/indgoddess/season-app-react/blob/master/seasons02.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
