@@ -10,7 +10,7 @@ Northern Hemisphere - Winter, Southern Hemisphere - Winter months - It shows blu
 ![alt text](https://github.com/indgoddess/season-app-react/blob/master/seasons.png?raw=true)
 
 ## Winter Greeting
-![alt text](https://github.com/indgoddess/season-app-react/blob/master/seasons02.png?raw=true)
+![alt text](https://github.com/indgoddess/season-app-react/blob/master/seasons02.PNG?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
